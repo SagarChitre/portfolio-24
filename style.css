@@ -530,6 +530,13 @@ article h3 {
   color: black;
 }
 
+.skills-title {
+  color: rgb(53, 53, 53);
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin: 0;
+}
+
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
